@@ -1,18 +1,4 @@
 # 🌟 Advanced MERN AI Finance SaaS Platform - Finora
-
-> This code, whether in parts or whole, is licensed for commercial use **only with a license**. It is **free for personal use**.
-> 👉 [Click here to obtain license](https://techwithemma.gumroad.com/l/huytmd) and 👉 [here to learn more](https://github.com/TechWithEmmaYT/Advanced-MERN-AI-Financial-SaaS-Platform/blob/main/TECHWITHEMMA-LICENSE.md)
-
-## ❤️ Support the Channel
-
-Love this project? Here’s how you can support:
-
-* ☕ [Buy Me a Coffee](https://buymeacoffee.com/techwithemmaofficial)
-* 🌟 Star this repo
-* 🎥 [Subscribe on YouTube](https://tinyurl.com/subcribe-to-techwithEmma)
-
----
-
 ## 🗝️ Key Features: 👇
 
 * 🔐 Authentication (Email + Password with JWT)
@@ -78,3 +64,4 @@ For more details about license, please refer to the [TECHWITHEMMA-LICENSE.md](ht
 If you find this helpful, support by subscribing and sharing:
 
 🔗 [https://tinyurl.com/subcribe-to-techwithEmma](https://tinyurl.com/subcribe-to-techwithEmma)
+
